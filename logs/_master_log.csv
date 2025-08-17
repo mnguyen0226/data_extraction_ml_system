@@ -1,0 +1,2 @@
+timestamp,username,pdf_file,invoice_folder,invoice_number,total_amount,items_sum,validation_pass,run_time_sec,run_cost_usd
+20250817_010959,minhngu,uploads/b9911f2d4a__sample-invoice.pdf,logs/b9911f2d4a__sample-invoice_20250817_010959,INV-630127,24000.0,24000.0,True,0.024,0.003

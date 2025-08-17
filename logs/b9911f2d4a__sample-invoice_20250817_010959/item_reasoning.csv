@@ -1,0 +1,10 @@
+attributes,values,reasoning,reference
+Fund Tickers,IWM,Extracted from line-item 1 table cell using cell-boundary cues.,Page 1: table row 1
+Fund Names,iShares Russell 2000 ETF,Extracted from line-item 1 table cell using cell-boundary cues.,Page 1: table row 1
+Fund Amount Allocation,4000.0,Extracted from line-item 1 table cell using cell-boundary cues.,Page 1: table row 1
+Fund Tickers,AGG,Extracted from line-item 2 table cell using cell-boundary cues.,Page 1: table row 2
+Fund Names,iShares Core U.S. Aggregate Bond ETF,Extracted from line-item 2 table cell using cell-boundary cues.,Page 1: table row 2
+Fund Amount Allocation,8000.0,Extracted from line-item 2 table cell using cell-boundary cues.,Page 1: table row 2
+Fund Tickers,QQQ,Extracted from line-item 3 table cell using cell-boundary cues.,Page 1: table row 3
+Fund Names,Invesco QQQ Trust,Extracted from line-item 3 table cell using cell-boundary cues.,Page 1: table row 3
+Fund Amount Allocation,12000.0,Extracted from line-item 3 table cell using cell-boundary cues.,Page 1: table row 3
