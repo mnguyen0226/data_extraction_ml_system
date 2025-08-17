@@ -1,2 +1,5 @@
-timestamp,username,pdf_file,invoice_folder,invoice_number,total_amount,items_sum,validation_pass,run_time_sec,run_cost_usd
-20250817_010959,minhngu,uploads/b9911f2d4a__sample-invoice.pdf,logs/b9911f2d4a__sample-invoice_20250817_010959,INV-630127,24000.0,24000.0,True,0.024,0.003
+timestamp,username,invoice_id,pdf_file,invoice_folder,invoice_number,total_amount,items_sum,validation_pass,run_time_sec,run_cost_usd
+20250817_115458,minhngu,123456789,uploads/b9911f2d4a__sample-invoice.pdf,logs/123456789,INV-630127,24000.0,24000.0,True,0.019,0.003
+20250817_115910,minhngu,123456789,,logs/123456789,INV-931435,24000.0,24000.0,True,0.014,0.003
+20250817_121137,minhngu,INV-630127,uploads/b9911f2d4a__sample-invoice.pdf,logs/INV-630127,INV-630127,24000.0,24000.0,True,0.012,0.003
+20250817_121934,minhngu,INV-630127,uploads/b9911f2d4a__sample-invoice.pdf,logs/INV-630127,INV-630127,24000.0,24000.0,True,0.022,0.003

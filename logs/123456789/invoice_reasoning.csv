@@ -1,0 +1,5 @@
+attributes,values,reasoning,reference
+Invoice Number,INV-931435,Located near 'Invoice Number' label via header proximity heuristic.,Page 1: lines 8–15
+Total Amount,24000.0,Located near 'Total Amount' label via header proximity heuristic.,Page 1: lines 8–15
+Start Date,2025-04-16,Located near 'Start Date' label via header proximity heuristic.,Page 1: lines 8–15
+End Date,2025-05-15,Located near 'End Date' label via header proximity heuristic.,Page 1: lines 8–15
